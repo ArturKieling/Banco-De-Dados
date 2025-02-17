@@ -1,0 +1,29 @@
+-- PROJETO DE BANCO DE DADOS --
+
+Banco de dados é uma coleção organizada de dados, armazenados de maneira que possam ser facilmente acessados, gerenciados e atualizados. Esses dados podem ser de qualquer tipo (textos, números, imagens, etc.) e são estruturados de forma a facilitar a consulta e manipulação eficiente das informações. Um banco de dados pode ser algo simples, como uma lista de contatos, ou complexo, envolvendo várias tabelas, relacionamentos e regras de integridade.
+
+Sistema Gerenciador de Banco de Dados (SGBD) - é um software que permite a criação, manipulação, administração e acesso a esses bancos de dados. Ele fornece uma interface entre os usuários e o banco de dados, facilitando a inserção, consulta, atualização e exclusão de dados. Além disso, o SGBD cuida da segurança, integridade, backup e recuperação dos dados, garantindo que o banco de dados funcione corretamente e seja protegido contra falhas.
+
+-- RELAÇÃO ENTRE O BANCO DE DADOS E SGBD --
+
+-> Banco de Dados: É o repositório onde as informações são armazenadas.
+-> SGBD: É a ferramenta que gerencia esse repositório, possibilitando que os usuários e aplicativos interajam com o banco de dados de forma eficiente e segura.
+
+-- MODELO RELACIONAL DE BANCO DE DADOS --
+
+É um modelo de organização e estruturação de dados que usa tabelas (também chamadas de relações) para armazenar informações. Essas tabelas são compostas por linhas (chamadas de tuplas) e colunas (chamadas de atributos).
+
+-- MICRO SERVIÇO -- 
+
+Um microserviço é um estilo arquitetural para o desenvolvimento de sistemas de software em que uma aplicação é estruturada como um conjunto de pequenos serviços independentes e autônomos. Cada microserviço é responsável por uma funcionalidade específica e pode ser desenvolvido, implantado e escalado de maneira independente.
+
+* Vantagens dos microserviços:
+
+-> Escalabilidade: Como cada microserviço é independente, você pode escalar apenas as partes do sistema que precisam de mais recursos, sem afetar o restante da aplicação.
+
+-> Desenvolvimento mais rápido: Como as equipes podem trabalhar de forma independente em diferentes microserviços, o desenvolvimento é mais ágil e rápido.
+
+-> Manutenção e atualizações: É mais fácil fazer alterações, corrigir bugs e adicionar novos recursos, porque as alterações em um microserviço geralmente não afetam os outros.
+
+-> Tecnologia Flexível: Cada microserviço pode ser desenvolvido usando a melhor tecnologia para o seu caso de uso específico. Não há necessidade de usar a mesma linguagem ou framework em toda a aplicação.
+
